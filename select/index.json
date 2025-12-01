@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "RUNWAY",
+  "base_artist": "MISAMO",
+  "createdAt": "2025-12-01T07:16:54.824647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Runway",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/01_Runway_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Babylon (Bree Runway & Jimmy Edgar Remix)",
+      "artist": "Lady Gaga feat. Bree Runway & JIMMY EDGAR",
+      "has_synced": true,
+      "path": "select/02_Babylon_(Bree_Runway_&_Jimmy_Edgar_Remix)_Lady_Gaga_feat._Bree_Runway_&_JIMMY_EDGAR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Babylon (Bree Runway & Jimmy Edgar Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_Babylon_(Bree_Runway_&_Jimmy_Edgar_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Runway",
+      "artist": "Jeremih",
+      "has_synced": true,
+      "path": "select/04_Runway_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Runway",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/05_Runway_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Run My Way Runway",
+      "artist": "The Boo Radleys",
+      "has_synced": false,
+      "path": "select/06_Run_My_Way_Runway_The_Boo_Radleys.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Swing (feat. Bree Runway)",
+      "artist": "Brooke Candy feat. Bree Runway",
+      "has_synced": true,
+      "path": "select/07_Swing_(feat._Bree_Runway)_Brooke_Candy_feat._Bree_Runway.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Swing (feat. Bree Runway)",
+      "artist": "Brooke Candy",
+      "has_synced": true,
+      "path": "select/08_Swing_(feat._Bree_Runway)_Brooke_Candy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Runway Houses City Clouds",
+      "artist": "Tame Impala",
+      "has_synced": true,
+      "path": "select/09_Runway_Houses_City_Clouds_Tame_Impala.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Runway Lights",
+      "artist": "Survivor",
+      "has_synced": false,
+      "path": "select/10_Runway_Lights_Survivor.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "XS - Bree Runway Remix",
+      "artist": "Rina Sawayama feat. Bree Runway",
+      "has_synced": true,
+      "path": "select/11_XS_-_Bree_Runway_Remix_Rina_Sawayama_feat._Bree_Runway.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tomorrow On the Runway",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/12_Tomorrow_On_the_Runway_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Phresh Out The Runway",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/13_Phresh_Out_The_Runway_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fresh Out the Runway",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/14_Fresh_Out_the_Runway_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Runway",
+      "artist": "Safura",
+      "has_synced": true,
+      "path": "select/15_Runway_Safura.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Human Nature (Runway Club Mix Radio Edit)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/16_Human_Nature_(Runway_Club_Mix_Radio_Edit)_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Human Nature (Runway Club Mix)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/17_Human_Nature_(Runway_Club_Mix)_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Runway Runaway",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/18_Runway_Runaway_Duran_Duran.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RUN WAY",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_RUN_WAY_三浦_大知.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "RUNWAY TO THE FUTURE",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_02_RUNWAY_TO_THE_FUTURE_三浦_大知.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "RUNWAY",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_03_RUNWAY_三浦_大知.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "RUNWAY",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_04_RUNWAY_三浦_大知.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "RUNWAY",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_05_RUNWAY_三浦_大知.txt"
+    }
+  ]
+}
